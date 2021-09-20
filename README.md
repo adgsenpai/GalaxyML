@@ -17,6 +17,8 @@ Astronomy has become a data-rich science; this transition is often labeled as: â
 
 The project aimed at using VO and Data Mining technologies to process data towards the classification of the host of faint radio sources. Multiwavelength data from X-ray, Ultra-Violet, Optical, and Infrared will be used to analyze and classify the host of faint radio population into different classes (i.e. Galaxies, Quasars, and Stars ).
 
+<h2>About Model</h2>
+![image](https://user-images.githubusercontent.com/45560312/134081160-d4fa5b38-6930-4945-8c4e-d842b7832c0c.png)
 
 <h3>Acknowlegements</h3>
 
