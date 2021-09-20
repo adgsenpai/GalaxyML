@@ -31,6 +31,7 @@ The project aimed at using VO and Data Mining technologies to process data towar
 <h6>
 With the development and deployment of a variety of multi-wavelength sky surveys, astronomy turns from being Hypothes into Big data. Versatile, Enthusiastic, Astrophysicist researcher is interested in data science. Siyabonga is doing research in Astrophysics with an aim of mastering machine learning Algorithms.
 <br>
+<br>
 He has degrees from the <br>
 University of KwaZulu-Natal <br>
 Honours degree in National Astrophysics and Space Science Programme <br>
