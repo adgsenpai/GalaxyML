@@ -26,11 +26,11 @@ The project aimed at using VO and Data Mining technologies to process data towar
 <br>
 <h6>The other notebooks is work done by SIYABONGA ZUNGU</h6>
 <h6>About him</h6>
-<p>
+<h6>
 He has degrees from the <br>
 University of KwaZulu-Natal <br>
 Honours degree in National Astrophysics and Space Science Programme <br>
-BSc Applied Mathematics, Mathematics and physics</p>
+BSc Applied Mathematics, Mathematics and physics</h6>
 
 <br>
 <h4>Author</h4>
