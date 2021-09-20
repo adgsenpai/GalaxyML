@@ -30,9 +30,7 @@ The project aimed at using VO and Data Mining technologies to process data towar
 He has degrees from the <br>
 University of KwaZulu-Natal <br>
 Honours degree in National Astrophysics and Space Science Programme <br>
-BSc Applied Mathematics, Mathematics and physics</h6>
-
+BSc Applied Mathematics, Mathematics and Physics</h6>
 <br>
 <h4>Author</h4>
 <h6>Ashlin Darius Govindasamy is currently doing his BSc Mathematics and Computer Science degree at the University of South Africa after that he will go and study till masters. He is a private Software Engineer contractor for many companies. He owns ADGSTUDIOS</h6>
-
