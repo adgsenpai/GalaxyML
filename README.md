@@ -22,7 +22,10 @@ The project aimed at using VO and Data Mining technologies to process data towar
 
 <h6>SIYABONGA ZUNGU who is the owner of the dataset/project/thesis</h6>
 
-<h6>Ashlin Darius Govindasamy helped optimize the ML Solution using adgmlclass and i put this up on my repo because this is a real world example of ML in action by clicking GalaxyML.ipynb this is his optimized solution of the model</h6>
-
+<h6>Ashlin Darius Govindasamy helped optimize the ML Solution using adgmlclass and put the repo because this is a real world example of ML in action. By clicking GalaxyML.ipynb this is his optimized solution of the model</h6>
 <br>
 <h6>The other notebooks is work done by SIYABONGA ZUNGU</h6>
+<br>
+<h4>Author</h4>
+<h6>Ashlin Darius Govindasamy is currently doing his BSc Mathematics and Computer Science degree at the University of South Africa after that he will go and study till masters. He is a private Software Engineer contractor for many companies. He owns ADGSTUDIOS</h6>
+
