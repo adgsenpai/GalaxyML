@@ -1,6 +1,5 @@
 # GalaxyML
-
-https://colab.research.google.com/github/ADGVLOGS/GalaxyML/blob/main/GalaxyML.ipynb
+<a href="https://colab.research.google.com/github/ADGVLOGS/GalaxyML/blob/main/GalaxyML.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
 
 <h4>Contains dataset of galaxies and stars powered by KNN ML to make predictions on the dataset</h4>
 
