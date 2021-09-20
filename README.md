@@ -27,7 +27,7 @@ The project aimed at using VO and Data Mining technologies to process data towar
 <br>
 <br>
 <h6>The other notebooks is work done by SIYABONGA ZUNGU</h6>
-<h4>About him SIYABONGA ZUNGU</h4>
+<h4>About SIYABONGA ZUNGU</h4>
 <h6>
 With the development and deployment of a variety of multi-wavelength sky surveys, astronomy turns from being Hypothes into Big data. Versatile, Enthusiastic, Astrophysicist researcher is interested in data science. Siyabonga is doing research in Astrophysics with an aim of mastering machine learning Algorithms.
 <br>
