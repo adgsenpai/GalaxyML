@@ -8,5 +8,5 @@
 
 <h6>SIYABONGA ZUNGU who is the owner of the dataset/project/thesis</h6>
 
-<h3>Ashlin Darius Govindasamy</h3>
+<h6>Ashlin Darius Govindasamy</h6>
 <h6>I just helped optimize the ML Solution using adgmlclass and i put this up on my repo because this is a real world example of ML in action</h6>
