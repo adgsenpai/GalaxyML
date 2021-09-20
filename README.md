@@ -25,7 +25,7 @@ The project aimed at using VO and Data Mining technologies to process data towar
 <h6>Ashlin Darius Govindasamy helped optimize the ML Solution using adgmlclass and put the repo because this is a real world example of ML in action. By clicking GalaxyML.ipynb this is his optimized solution of the model</h6>
 <br>
 <h6>The other notebooks is work done by SIYABONGA ZUNGU</h6>
-<h6>About him</h6>
+<h4>About him</h4>
 <h6>
 He has degrees from the <br>
 University of KwaZulu-Natal <br>
