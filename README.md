@@ -10,8 +10,9 @@
 
 <h1>Data Mining and Virtual Observatory : Identifying galaxies, Quasars and stars in multi-Wavelength surveys.</h1>
 
+<h2>Project description</h2>
 <p>
-Project descriptionAstronomy has become a data-rich science; this transition is often labeled as: “Data Tsunami”. The data are not just increasing in size but also in complexity and dimensionality. Astroinformatics is a new field of science that has emerged from this technology-driven progress. Virtual Observatory, Machine Learning, Data Mining and Grid Computing are just a few examples of the new tools available to scientists. The new concept of data infrastructure named Virtual Observatory (VO) offers an ideal basis for dealing with distributed heterogeneous datasets.
+Astronomy has become a data-rich science; this transition is often labeled as: “Data Tsunami”. The data are not just increasing in size but also in complexity and dimensionality. Astroinformatics is a new field of science that has emerged from this technology-driven progress. Virtual Observatory, Machine Learning, Data Mining and Grid Computing are just a few examples of the new tools available to scientists. The new concept of data infrastructure named Virtual Observatory (VO) offers an ideal basis for dealing with distributed heterogeneous datasets.
 </p>
 
 The project aimed at using VO and Data Mining technologies to process data towards the classification of the host of faint radio sources. Multiwavelength data from X-ray, Ultra-Violet, Optical, and Infrared will be used to analyze and classify the host of faint radio population into different classes (i.e. Galaxies, Quasars, and Stars ).
